@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /.env
+Disallow: /config/
+Crawl-delay: 1
+
+Sitemap: https://script-wine-seven.vercel.app/sitemap.xml
